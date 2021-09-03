@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "639282474717",
+    "project_id": "paybills-1e585",
+    "storage_bucket": "paybills-1e585.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639282474717:android:a57001db179fa2f2e93534",
+        "android_client_info": {
+          "package_name": "com.example.paybills"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639282474717-8gk71b82sltgatlrrsbn4smc984c8f9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paybills",
+            "certificate_hash": "0acd79b7b35b6b3a6a1990ec4d4821e0a77b5f3f"
+          }
+        },
+        {
+          "client_id": "639282474717-81uplriahc3777vdt6iv03i3be87oaug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUk44w8yrvn3PiUsIeBj15ZM53sX4LdgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639282474717-81uplriahc3777vdt6iv03i3be87oaug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
